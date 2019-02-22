@@ -36,7 +36,7 @@ Pdef(
 		\buf, Prand(~flamingos, inf),
 		\speed, 0.5,
 		\vol, Pseq([0.8, Pexprand(0.05, 0.3)], inf),
-		\legato, Pseq([10, 20, 100, 200, 0.1], inf)
+		\legato, Pseq([1, 0.5, 0.3], inf)
 );
 ).fork;
 )
