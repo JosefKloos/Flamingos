@@ -26,7 +26,7 @@ O στόχος ήταν οι ήχοι απο τα φλαμίνγκο οι οπο
 Krause, B. 2015. *Voices of the Wild.* USA: Yale University Press
 
 
-——————. 2016. *Entretien avec Bernie Krause - Le Grand Orchestre des Animaux – 2016.*  Αρχείο Βίντεο . https://www.youtube.com/watch?v=hs-UVUQNHNY&t=325s
+————. 2016. *Entretien avec Bernie Krause - Le Grand Orchestre des Animaux – 2016.*  Αρχείο Βίντεο . https://www.youtube.com/watch?v=hs-UVUQNHNY&t=325s
 
 
 Sibley, C. G. and  Corbin, K. W. and Haavie, J. H. . *The Relationships of the Flamingos as Indicated by the Egg-White Proteins and Hemoglobins*. The Condor: Ornithological Applications, Volume 71, Issue 2, 1 April 1969, Pages 155–179.
